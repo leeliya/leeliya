@@ -4,7 +4,7 @@ Final-year engineering student in **Big Data & Cloud Computing** at **ENSET Moha
 
 I build data pipelines and backend systems, and I like the part where several pieces have to work together for real. I learn new tools quickly, and I want to understand *why* a design works, not only that it runs.
 
-🔎 **Looking for a 6-month end-of-studies (PFE) internship in Morocco, starting February 2027.**
+🔎 **Looking for a 6-month end-of-studies (PFE) internship, starting February 2027.**
 
 ---
 
